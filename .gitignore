@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# dataset, download from https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+/input
