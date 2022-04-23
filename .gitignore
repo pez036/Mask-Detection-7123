@@ -130,3 +130,6 @@ dmypy.json
 
 # dataset, download from https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
 /input
+
+# large files
+/model_weights
